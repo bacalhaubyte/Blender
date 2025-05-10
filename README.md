@@ -19,7 +19,7 @@ handheld-like shake to the camera. The exact movement can be customized using th
 - **Explosion #04:** (Blender 2.83/Cycles) Large explosion simulation, complete with fire and smoke. Ready-for-rendering. Use *fSpy* to set the virtual camera to your scene and increase the frame rate proportionally for desired scale. Scene includes 82,500 particles with 5 emitters (a 150GB+ bake). Recommend enabling Adaptive Sampling for faster render times. 
 
 ## Materials
-- **Holographic Material #01:** (Blender 2.83) A holographic material inspired by cyberpunk themes, sampled here on [Dimmyxv's City](https://blendswap.com/blend/7540).
+- **Holographic Material #01:** (Blender 2.83) A holographic material inspired by cyberpunk themes.
 
 # License
 The assets in this repository are licensed under the [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. 
