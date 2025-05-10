@@ -1,7 +1,7 @@
 # Blender Assets
 A collection of Blender-powered visual effects (VFX), 3D models, scenes and other digital assets to enhance your next creative media project.
 ## Camera Rigs
-**Camera Rig Pack:** This single .blend file contains three camera rigs organized within three distinct collections:
+- **Camera Rig Pack:** This single .blend file contains three camera rigs organized within three distinct collections:
 1. Animated 360° Path Camera
 ◦ Found under the *Camera1_PathFollow* collection. This rig uses an X or Y axis (but not both!)
 constraint to animate a camera along a path around a tracked object (empty) in frame. It can be
@@ -16,7 +16,11 @@ and manipulate the UI elements as desired.
 handheld-like shake to the camera. The exact movement can be customized using the Graph Editor.
 
 ## Explosions
-**Explosion #4:** Large explosion simulation, complete with fire and smoke. Ready-for-rendering. Use *fSpy* to set the virtual camera to your scene and increase the frame rate proportionally for desired scale. Scene includes 82,500 particles with 5 emitters (a 150GB+ bake). Recommend enabling Adaptive Sampling for faster render times. 
+- **Explosion #04:** Large explosion simulation, complete with fire and smoke. Ready-for-rendering. Use *fSpy* to set the virtual camera to your scene and increase the frame rate proportionally for desired scale. Scene includes 82,500 particles with 5 emitters (a 150GB+ bake). Recommend enabling Adaptive Sampling for faster render times. 
+
+## Materials
+- **Holographic Material #01:** A holographic material inspired by cyberpunk themes, sampled here on [Dimmyxv's City](https://blendswap.com/blend/7540).
 
 # License
-The assets in this repository are licensed under the [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+The assets in this repository are licensed under the [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. 
+Credit should be attributed to [PlayableFX.com](http://playablefx.com)
