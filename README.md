@@ -23,4 +23,4 @@ handheld-like shake to the camera. The exact movement can be customized using th
 
 # License
 The assets in this repository are licensed under the [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. 
-Credit should be attributed to [PlayableFX.com](http://playablefx.com)
+Attribution should go to [PlayableFX.com](http://playablefx.com)
